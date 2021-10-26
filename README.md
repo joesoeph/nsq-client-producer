@@ -31,4 +31,4 @@ echo $sendEmail;
 
 ## License
 
-Propierty
+MIT
